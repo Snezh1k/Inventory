@@ -1,0 +1,8 @@
+2023/08/02-16:12:44.425 1f28 Reusing MANIFEST D:/Projects/Inventory/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/02-16:12:44.425 1f28 Recovering log #7
+2023/08/02-16:12:44.425 1f28 Reusing old log D:/Projects/Inventory/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2023/08/02-16:14:53.185 1f28 Level-0 table #11: started
+2023/08/02-16:14:53.185 1f28 Level-0 table #11: 0 bytes OK
+2023/08/02-16:14:53.189 1f28 Delete type=0 #7
+2023/08/02-16:14:53.189 1f28 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/08/02-16:14:53.189 1f28 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

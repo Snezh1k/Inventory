@@ -1,0 +1,42 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Inventory.cpp.obj": [
+			"DragItemVisualWidget.gen.cpp.obj",
+			"GameHUD.gen.cpp.obj",
+			"InteractionInterface.gen.cpp.obj",
+			"InteractionWidget.gen.cpp.obj",
+			"InterfaceTestActor.gen.cpp.obj",
+			"Inventory.init.gen.cpp.obj",
+			"InventoryCharacter.gen.cpp.obj",
+			"InventoryComponent.gen.cpp.obj",
+			"InventoryGameMode.gen.cpp.obj",
+			"InventoryItemSlotWidget.gen.cpp.obj",
+			"InventoryPlayerController.gen.cpp.obj",
+			"InventoryTooltipWidget.gen.cpp.obj",
+			"InventoryWidget.gen.cpp.obj",
+			"ItemBase.gen.cpp.obj",
+			"ItemDataStructs.gen.cpp.obj",
+			"ItemDragDropOperation.gen.cpp.obj",
+			"MainMenuWidget.gen.cpp.obj",
+			"Pickup.gen.cpp.obj",
+			"Inventory.cpp.obj",
+			"InventoryComponent.cpp.obj",
+			"InventoryGameMode.cpp.obj",
+			"InteractionInterface.cpp.obj",
+			"ItemBase.cpp.obj",
+			"InventoryCharacter.cpp.obj",
+			"InventoryPlayerController.cpp.obj",
+			"GameHUD.cpp.obj",
+			"InteractionWidget.cpp.obj",
+			"DragItemVisualWidget.cpp.obj",
+			"InventoryItemSlotWidget.cpp.obj",
+			"InventoryTooltipWidget.cpp.obj",
+			"InventoryWidget.cpp.obj",
+			"ItemDragDropOperation.cpp.obj",
+			"MainMenuWidget.cpp.obj",
+			"InterfaceTestActor.cpp.obj",
+			"Pickup.cpp.obj"
+		]
+	}
+}

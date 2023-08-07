@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projects\\inventory\\source\\inventory\\inventory.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\inventory\\intermediate\\build\\win64\\x64\\inventoryeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\projects\\inventory\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inventory\\definitions.inventory.h",
+            "d:\\projects\\inventory\\source\\inventory\\inventory.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

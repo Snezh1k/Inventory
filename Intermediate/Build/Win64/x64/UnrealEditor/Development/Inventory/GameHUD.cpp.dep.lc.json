@@ -1,0 +1,20 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projects\\inventory\\source\\inventory\\private\\userinterface\\gamehud.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\inventory\\intermediate\\build\\win64\\x64\\inventoryeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\projects\\inventory\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inventory\\definitions.inventory.h",
+            "d:\\projects\\inventory\\source\\inventory\\public\\userinterface\\gamehud.h",
+            "d:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\hud.h",
+            "d:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\hudhitbox.h",
+            "d:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\debugtextinfo.h",
+            "d:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\debugtextinfo.generated.h",
+            "d:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\hud.generated.h",
+            "d:\\projects\\inventory\\intermediate\\build\\win64\\unrealeditor\\inc\\inventory\\uht\\gamehud.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projects\\inventory\\source\\inventory\\private\\world\\interfacetestactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\inventory\\intermediate\\build\\win64\\x64\\inventoryeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\projects\\inventory\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inventory\\definitions.inventory.h",
+            "d:\\projects\\inventory\\source\\inventory\\public\\world\\interfacetestactor.h",
+            "d:\\projects\\inventory\\intermediate\\build\\win64\\unrealeditor\\inc\\inventory\\uht\\interfacetestactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

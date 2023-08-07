@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projects\\inventory\\source\\inventory\\private\\itembase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\inventory\\intermediate\\build\\win64\\x64\\inventoryeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\projects\\inventory\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inventory\\definitions.inventory.h",
+            "d:\\projects\\inventory\\source\\inventory\\public\\itembase.h",
+            "d:\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\ue_5.2\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\ue_5.2\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\ue_5.2\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\projects\\inventory\\intermediate\\build\\win64\\unrealeditor\\inc\\inventory\\uht\\itembase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

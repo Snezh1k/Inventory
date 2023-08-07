@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\Inventory\\Source\\Inventory\\Inventory.Build.cs",
+		"D:\\Projects\\Inventory\\Source\\Inventory.Target.cs",
+		"D:\\Projects\\Inventory\\Source\\InventoryEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

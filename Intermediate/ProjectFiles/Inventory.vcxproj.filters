@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Inventory.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Inventory.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\InventoryEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Platforms">
+      <UniqueIdentifier>{ED49A36C-4FD5-37E5-A2AC-E11BEF4F21CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens">
+      <UniqueIdentifier>{28125F47-4973-377C-9D77-EBC3C72EC856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens\Config">
+      <UniqueIdentifier>{D3BF39CB-FA64-39E2-A327-B5021BA69773}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\HoloLens\Config\HoloLensEngine.ini">
+      <Filter>Platforms\HoloLens\Config</Filter>
+    </None>
+    <Filter Include="Source\Inventory">
+      <UniqueIdentifier>{A17E15ED-AF91-32D9-9E81-086699FA912C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Inventory\Inventory.Build.cs">
+      <Filter>Source\Inventory</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Inventory\Inventory.cpp">
+      <Filter>Source\Inventory</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Inventory\Inventory.h">
+      <Filter>Source\Inventory</Filter>
+    </ClInclude>
+    <Filter Include="Source\Inventory\Private">
+      <UniqueIdentifier>{EAE94331-786C-3348-8767-DD72488FC87E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Inventory\Private\Components">
+      <UniqueIdentifier>{18579706-BD4A-30DC-87BD-37D025A7DA17}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Inventory\Private\Components\InventoryComponent.cpp">
+      <Filter>Source\Inventory\Private\Components</Filter>
+    </ClCompile>
+    <Filter Include="Source\Inventory\Private\Framework">
+      <UniqueIdentifier>{1A5DE71A-FAC1-3EE7-B577-B68DD14DF3C4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Inventory\Private\Framework\InventoryGameMode.cpp">
+      <Filter>Source\Inventory\Private\Framework</Filter>
+    </ClCompile>
+    <Filter Include="Source\Inventory\Private\Interfaces">
+      <UniqueIdentifier>{A58E25D6-04C7-33F0-B11E-8D2622999680}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Inventory\Private\Interfaces\InteractionInterface.cpp">
+      <Filter>Source\Inventory\Private\Interfaces</Filter>
+    </ClCompile>
+    <Filter Include="Source\Inventory\Private\Items">
+      <UniqueIdentifier>{7A7961E3-33CE-3890-8E2D-1D2A4B3C09A9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Inventory\Private\Items\ItemBase.cpp">
+      <Filter>Source\Inventory\Private\Items</Filter>
+    </ClCompile>
+    <Filter Include="Source\Inventory\Private\Player">
+      <UniqueIdentifier>{06E56614-B8B7-3DA8-B2BC-80405E91B79D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Inventory\Private\Player\InventoryCharacter.cpp">
+      <Filter>Source\Inventory\Private\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Inventory\Private\Player\InventoryPlayerController.cpp">
+      <Filter>Source\Inventory\Private\Player</Filter>
+    </ClCompile>
+    <Filter Include="Source\Inventory\Private\UserInterface">
+      <UniqueIdentifier>{4BBF2B72-A4B9-34D8-912D-BAA009E68BCC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Inventory\Private\UserInterface\GameHUD.cpp">
+      <Filter>Source\Inventory\Private\UserInterface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Inventory\Private\UserInterface\MainMenuWidget.cpp">
+      <Filter>Source\Inventory\Private\UserInterface</Filter>
+    </ClCompile>
+    <Filter Include="Source\Inventory\Private\UserInterface\Interaction">
+      <UniqueIdentifier>{B730BE4F-0004-323B-B69E-40D394010514}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Inventory\Private\UserInterface\Interaction\InteractionWidget.cpp">
+      <Filter>Source\Inventory\Private\UserInterface\Interaction</Filter>
+    </ClCompile>
+    <Filter Include="Source\Inventory\Private\UserInterface\Inventory">
+      <UniqueIdentifier>{E9868B5D-C15E-3951-B9C2-4434E2F82D18}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Inventory\Private\UserInterface\Inventory\DragItemVisualWidget.cpp">
+      <Filter>Source\Inventory\Private\UserInterface\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Inventory\Private\UserInterface\Inventory\InventoryItemSlotWidget.cpp">
+      <Filter>Source\Inventory\Private\UserInterface\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Inventory\Private\UserInterface\Inventory\InventoryTooltipWidget.cpp">
+      <Filter>Source\Inventory\Private\UserInterface\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Inventory\Private\UserInterface\Inventory\InventoryWidget.cpp">
+      <Filter>Source\Inventory\Private\UserInterface\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Inventory\Private\UserInterface\Inventory\ItemDragDropOperation.cpp">
+      <Filter>Source\Inventory\Private\UserInterface\Inventory</Filter>
+    </ClCompile>
+    <Filter Include="Source\Inventory\Private\World">
+      <UniqueIdentifier>{22E2A3E6-6A4A-3A66-8A5F-502289AF913A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Inventory\Private\World\InterfaceTestActor.cpp">
+      <Filter>Source\Inventory\Private\World</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Inventory\Private\World\Pickup.cpp">
+      <Filter>Source\Inventory\Private\World</Filter>
+    </ClCompile>
+    <Filter Include="Source\Inventory\Public">
+      <UniqueIdentifier>{ED355343-BEA4-31AC-81CB-39544DB329AA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Inventory\Public\Components">
+      <UniqueIdentifier>{A7A8D235-8C57-39A3-B191-ECED8C7E8D31}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Inventory\Public\Components\InventoryComponent.h">
+      <Filter>Source\Inventory\Public\Components</Filter>
+    </ClInclude>
+    <Filter Include="Source\Inventory\Public\Data">
+      <UniqueIdentifier>{BF9BCEAF-5A60-3C83-BC1E-5DA15E1D8BBC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Inventory\Public\Data\ItemDataStructs.h">
+      <Filter>Source\Inventory\Public\Data</Filter>
+    </ClInclude>
+    <Filter Include="Source\Inventory\Public\Framework">
+      <UniqueIdentifier>{7BDD24FC-A125-374F-8113-BF8838BE7370}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Inventory\Public\Framework\InventoryGameMode.h">
+      <Filter>Source\Inventory\Public\Framework</Filter>
+    </ClInclude>
+    <Filter Include="Source\Inventory\Public\Interfaces">
+      <UniqueIdentifier>{8A8CA525-5991-30BC-BC8E-C4E0A63D15CE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Inventory\Public\Interfaces\InteractionInterface.h">
+      <Filter>Source\Inventory\Public\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\Inventory\Public\Items">
+      <UniqueIdentifier>{F58AC171-A366-3F31-805B-02F8A3AD06C7}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Inventory\Public\Items\ItemBase.h">
+      <Filter>Source\Inventory\Public\Items</Filter>
+    </ClInclude>
+    <Filter Include="Source\Inventory\Public\Player">
+      <UniqueIdentifier>{FC17AF7F-831C-3653-B4C5-2D298C9B75D5}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Inventory\Public\Player\InventoryCharacter.h">
+      <Filter>Source\Inventory\Public\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Inventory\Public\Player\InventoryPlayerController.h">
+      <Filter>Source\Inventory\Public\Player</Filter>
+    </ClInclude>
+    <Filter Include="Source\Inventory\Public\UserInterface">
+      <UniqueIdentifier>{588C96E7-B5F3-3E9E-922D-1CF543963DF2}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Inventory\Public\UserInterface\GameHUD.h">
+      <Filter>Source\Inventory\Public\UserInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Inventory\Public\UserInterface\MainMenuWidget.h">
+      <Filter>Source\Inventory\Public\UserInterface</Filter>
+    </ClInclude>
+    <Filter Include="Source\Inventory\Public\UserInterface\Interaction">
+      <UniqueIdentifier>{97C9E80D-C7A0-3112-ACDD-1FEBB67D1D27}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Inventory\Public\UserInterface\Interaction\InteractionWidget.h">
+      <Filter>Source\Inventory\Public\UserInterface\Interaction</Filter>
+    </ClInclude>
+    <Filter Include="Source\Inventory\Public\UserInterface\Inventory">
+      <UniqueIdentifier>{3948C0E8-A6E6-3838-B636-FA25AC2A2F19}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Inventory\Public\UserInterface\Inventory\DragItemVisualWidget.h">
+      <Filter>Source\Inventory\Public\UserInterface\Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Inventory\Public\UserInterface\Inventory\InventoryItemSlotWidget.h">
+      <Filter>Source\Inventory\Public\UserInterface\Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Inventory\Public\UserInterface\Inventory\InventoryTooltipWidget.h">
+      <Filter>Source\Inventory\Public\UserInterface\Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Inventory\Public\UserInterface\Inventory\InventoryWidget.h">
+      <Filter>Source\Inventory\Public\UserInterface\Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Inventory\Public\UserInterface\Inventory\ItemDragDropOperation.h">
+      <Filter>Source\Inventory\Public\UserInterface\Inventory</Filter>
+    </ClInclude>
+    <Filter Include="Source\Inventory\Public\World">
+      <UniqueIdentifier>{BE5CB28C-B912-3A3B-9C1B-2CA91ECE4CE0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Inventory\Public\World\InterfaceTestActor.h">
+      <Filter>Source\Inventory\Public\World</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Inventory\Public\World\Pickup.h">
+      <Filter>Source\Inventory\Public\World</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
